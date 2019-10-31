@@ -1,6 +1,0 @@
-<acceptance-test-run title="Test2" name="test2" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" annotated-result="IGNORED" result="IGNORED" duration="0" timestamp="2019-10-31T22:11:24.476+05:00">
-  <user-story id="Features.HomePageTests" name="Home page tests" path="Features"/>
-  <tags>
-    <tag name="Home page tests" type="story"/>
-  </tags>
-</acceptance-test-run>

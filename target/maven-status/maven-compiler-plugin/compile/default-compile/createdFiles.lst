@@ -1,6 +1,6 @@
+actions\WaitActions.class
 pages\common\QMSLoginPage.class
-Actions\AbstractPageAction.class
-Actions\WaitActions$2.class
-Actions\WaitActions.class
-Actions\WaitActions$1.class
+actions\AbstractPageAction.class
+actions\WaitActions$2.class
 pages\common\QMSHomePage.class
+actions\WaitActions$1.class

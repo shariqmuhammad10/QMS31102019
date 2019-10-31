@@ -1,0 +1,12 @@
+<acceptance-test-run title="Verify login into site" name="VerifyLoginIntoSite" steps="2" successful="2" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="13284" timestamp="2019-10-31T22:34:33.477+05:00" session-id="166b2cd775240a66eb1ca3ad6e5acfac">
+  <user-story id="features.HomePageTests" name="Home page tests" path="features"/>
+  <tags>
+    <tag name="Home page tests" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="12728">
+    <description>Navigate to login page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="535">
+    <description>Login into site</description>
+  </test-step>
+</acceptance-test-run>

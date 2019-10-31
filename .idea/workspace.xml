@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="531ca5f5-5ccf-4449-97bd-29b4745bc83d" name="Default Changelist" comment="" />
+    <list default="true" id="531ca5f5-5ccf-4449-97bd-29b4745bc83d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Actions/AbstractPageAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actions/AbstractPageAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Actions/WaitActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actions/WaitActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/common/QMSHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/common/QMSHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/common/QMSLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/common/QMSLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Features/HomePageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/HomePageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/QMS-Web-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/QMS-Web-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Actions/AbstractPageAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Actions/AbstractPageAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Actions/WaitActions$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Actions/WaitActions$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Actions/WaitActions$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Actions/WaitActions$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Actions/WaitActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Actions/WaitActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/common/QMSHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/common/QMSHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/common/QMSLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/common/QMSLoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/31d14042aa4c0ea4e965bba57122153fdd98ceb7403f7830eacbdf3f78b93e6c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/31d14042aa4c0ea4e965bba57122153fdd98ceb7403f7830eacbdf3f78b93e6c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/31d14042aa4c0ea4e965bba57122153fdd98ceb7403f7830eacbdf3f78b93e6c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/3e90ba33e8f3d0ed930480355ffe06d6d509c00f823c5e139fc871b92551ee5c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/3e90ba33e8f3d0ed930480355ffe06d6d509c00f823c5e139fc871b92551ee5c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/3e90ba33e8f3d0ed930480355ffe06d6d509c00f823c5e139fc871b92551ee5c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-fc0c0a163f16498dd131f7aa606f28366db23ed655ac8dcf2f920400cef0be2b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b54ec6c656f9de4dbb346af2e7242bc82e2a9ce568231242366e10f9d067bdc3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b54ec6c656f9de4dbb346af2e7242bc82e2a9ce568231242366e10f9d067bdc3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b54ec6c656f9de4dbb346af2e7242bc82e2a9ce568231242366e10f9d067bdc3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fc0c0a163f16498dd131f7aa606f28366db23ed655ac8dcf2f920400cef0be2b.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fc0c0a163f16498dd131f7aa606f28366db23ed655ac8dcf2f920400cef0be2b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fc0c0a163f16498dd131f7aa606f28366db23ed655ac8dcf2f920400cef0be2b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/flow/serenity.configuration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Features/HomePageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Features/HomePageTests.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +54,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +65,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1SyWL3l2a5iPtI75cCvTJ69YEfx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -53,12 +98,12 @@
       <module name="QMSWeb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Features.*" />
+          <option name="PATTERN" value="features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Features" />
-      <option name="MAIN_CLASS_NAME" value="Features.HomePageTests" />
+      <option name="PACKAGE_NAME" value="features" />
+      <option name="MAIN_CLASS_NAME" value="features.HomePageTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +127,22 @@
       <updated>1572536256927</updated>
       <workItem from="1572536260030" duration="611000" />
       <workItem from="1572536939618" duration="4598000" />
-      <workItem from="1572541557362" duration="760000" />
+      <workItem from="1572541557362" duration="1638000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

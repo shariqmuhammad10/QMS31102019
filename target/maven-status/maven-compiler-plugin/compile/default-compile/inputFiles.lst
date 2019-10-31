@@ -1,4 +1,4 @@
 D:\Automation\QMSWeb\src\main\java\pages\common\QMSLoginPage.java
 D:\Automation\QMSWeb\src\main\java\pages\common\QMSHomePage.java
-D:\Automation\QMSWeb\src\main\java\Actions\AbstractPageAction.java
-D:\Automation\QMSWeb\src\main\java\Actions\WaitActions.java
+D:\Automation\QMSWeb\src\main\java\actions\AbstractPageAction.java
+D:\Automation\QMSWeb\src\main\java\actions\WaitActions.java

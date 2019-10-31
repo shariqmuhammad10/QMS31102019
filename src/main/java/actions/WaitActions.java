@@ -1,4 +1,4 @@
-package Actions;
+package actions;
 
 
 import org.openqa.selenium.By;
@@ -14,7 +14,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.google.common.base.Function;
-import net.thucydides.core.pages.PageObject;
 
 public class WaitActions extends AbstractPageAction {
     private static final Logger logger = LoggerFactory.getLogger(WaitActions.class);

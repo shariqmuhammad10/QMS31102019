@@ -1,4 +1,4 @@
-package Features;
+package features;
 
 import Steps.Common.HomePageSteps;
 import net.serenitybdd.junit.runners.SerenityRunner;
@@ -8,7 +8,6 @@ import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

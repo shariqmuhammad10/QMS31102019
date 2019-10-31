@@ -1,6 +1,6 @@
 package pages.common;
 
-import Actions.WaitActions;
+import actions.WaitActions;
 import net.serenitybdd.core.pages.WebElementFacade;
 import org.openqa.selenium.support.FindBy;
 
