@@ -1,0 +1,9 @@
+<acceptance-test-run title="Verify login page is appearing" name="verifyLoginPageIsAppearing" steps="1" successful="1" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="14875" timestamp="2019-10-31T22:11:25.240+05:00" session-id="ed4c343f6ae7a1afce0f86c0b6da25f6">
+  <user-story id="Features.HomePageTests" name="Home page tests" path="Features"/>
+  <tags>
+    <tag name="Home page tests" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="14875">
+    <description>Navigate to login page</description>
+  </test-step>
+</acceptance-test-run>

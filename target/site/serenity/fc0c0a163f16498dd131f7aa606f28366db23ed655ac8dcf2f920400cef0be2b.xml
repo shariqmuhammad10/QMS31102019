@@ -1,0 +1,15 @@
+<acceptance-test-run title="Open main menu" name="openMainMenu" steps="3" successful="3" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="17525" timestamp="2019-10-31T22:10:49.058+05:00" session-id="e8c488cece96eea99f6ee3eb2785827f">
+  <user-story id="Features.HomePageTests" name="Home page tests" path="Features"/>
+  <tags>
+    <tag name="Home page tests" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="14752">
+    <description>Navigate to login page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="670">
+    <description>Login into site</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2029">
+    <description>Access to main menu</description>
+  </test-step>
+</acceptance-test-run>
